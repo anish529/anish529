@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Anish Kumar Prajapati
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
+
 
 ### 💻 Java Developer | DSA Learner | Backend Development Enthusiast
 
